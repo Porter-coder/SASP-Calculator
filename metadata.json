@@ -1,0 +1,5 @@
+{
+  "name": "SASP Calculator",
+  "description": "A Safety-Adjusted Spending Power calculator helping users determine safe spending limits based on financial runway.",
+  "requestFramePermissions": []
+}
